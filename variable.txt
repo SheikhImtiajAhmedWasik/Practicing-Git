@@ -1,0 +1,1 @@
+Variable - Its a container object where coder store values. The value can be any data types.
